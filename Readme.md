@@ -16,13 +16,13 @@ Basic requirments to run the code
 7. Finally build path in your editor in the jsoup library to run the code.
 
 Problem Statement:
-To generate a quiz which includes multiple user profiles for students and one teacher . 
+To generate a quiz which includes multiple user profiles for students and one teacher .Â 
 
 Features:
 
 For Teacher, 
 1. To create MCQs
-2. To take questions from internet 
+2. To take questions from internetÂ 
 3. To save results or question bank in files
 For Student, 
 1. To attempt mcqs 
