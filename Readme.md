@@ -1,4 +1,4 @@
-MCQ Quiz 
+MCQ Quiz system 
 
 Our project is a console application which allows a teacher to test and evaluate there students by providing a platform to generate questions and randomise them or also generate some automatic online questions which the students can answer review there answer and raise a query incase of any difficulty. All the data gets stored in a txt file as question bank stores all the questions, report stores the report of the students and the queries stores the queries of the students. these data gets dynamically updated in the .txt files.
 
@@ -29,9 +29,9 @@ Concepts used
 2. File Handeling
 3. Inheritance
 4. Packages
-5. Webscrapping
+5. Webscrapping.
 
-Project contributors :
+Project contributors : 
 
 [Aakash Saroop](https://github.com/aakash-saroop)
 
